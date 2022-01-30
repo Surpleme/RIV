@@ -1,0 +1,20 @@
+C:\Users\Charles\source\repos\Sexo test\Sexo test\bin\Debug\net5.0-windows\Sexo test.exe
+C:\Users\Charles\source\repos\Sexo test\Sexo test\bin\Debug\net5.0-windows\Sexo test.deps.json
+C:\Users\Charles\source\repos\Sexo test\Sexo test\bin\Debug\net5.0-windows\Sexo test.runtimeconfig.json
+C:\Users\Charles\source\repos\Sexo test\Sexo test\bin\Debug\net5.0-windows\Sexo test.runtimeconfig.dev.json
+C:\Users\Charles\source\repos\Sexo test\Sexo test\bin\Debug\net5.0-windows\Sexo test.dll
+C:\Users\Charles\source\repos\Sexo test\Sexo test\bin\Debug\net5.0-windows\ref\Sexo test.dll
+C:\Users\Charles\source\repos\Sexo test\Sexo test\bin\Debug\net5.0-windows\Sexo test.pdb
+C:\Users\Charles\source\repos\Sexo test\Sexo test\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Charles\source\repos\Sexo test\Sexo test\obj\Debug\net5.0-windows\Sexo test.vbproj.AssemblyReference.cache
+C:\Users\Charles\source\repos\Sexo test\Sexo test\obj\Debug\net5.0-windows\Sexo_test.Form1.resources
+C:\Users\Charles\source\repos\Sexo test\Sexo test\obj\Debug\net5.0-windows\Sexo test.vbproj.GenerateResource.cache
+C:\Users\Charles\source\repos\Sexo test\Sexo test\obj\Debug\net5.0-windows\Sexo test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\source\repos\Sexo test\Sexo test\obj\Debug\net5.0-windows\Sexo test.AssemblyInfoInputs.cache
+C:\Users\Charles\source\repos\Sexo test\Sexo test\obj\Debug\net5.0-windows\Sexo test.AssemblyInfo.vb
+C:\Users\Charles\source\repos\Sexo test\Sexo test\obj\Debug\net5.0-windows\Sexo test.vbproj.CoreCompileInputs.cache
+C:\Users\Charles\source\repos\Sexo test\Sexo test\obj\Debug\net5.0-windows\Sexo test.vbproj.CopyComplete
+C:\Users\Charles\source\repos\Sexo test\Sexo test\obj\Debug\net5.0-windows\Sexo test.dll
+C:\Users\Charles\source\repos\Sexo test\Sexo test\obj\Debug\net5.0-windows\ref\Sexo test.dll
+C:\Users\Charles\source\repos\Sexo test\Sexo test\obj\Debug\net5.0-windows\Sexo test.pdb
+C:\Users\Charles\source\repos\Sexo test\Sexo test\obj\Debug\net5.0-windows\Sexo test.genruntimeconfig.cache
