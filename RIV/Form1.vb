@@ -1,5 +1,6 @@
 ﻿
 Imports Newtonsoft.Json
+Imports System.Numerics
 Public Class Form1
 
     Public obj As JSON_result
@@ -18,11 +19,11 @@ Public Class Form1
 End Class
 
 Public Class JSON_result
-    Public altitude As Integer
-    Public latitude As Integer
-    Public lagitude As Integer
-    Public speed As Integer
-    Public course As Integer
-    Public temp As Integer
+    Public altitude As BigInteger
+    Public latitude As BigInteger
+    Public lagitude As BigInteger
+    Public speed As BigInteger
+    Public course As BigInteger
+    Public temp As BigInteger
     Public name As String
 End Class
