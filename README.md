@@ -1,5 +1,5 @@
 # RIV
 
-## Rocket Information Viewer
+RIV (Rocket Information Viewer) is an program made to extract ceratin things of an JSON (sent by the N-1 rocket) and convert it to easily readable stuff, it's currently under development
 
-So we can have easy and quick data about our rocket without having to keep looking at the *secret*. So the rocket pilot who sees the information by *secret* can share all the team data without much problem while piloting the rocket from Earth
+It has been made on Visual Basic
